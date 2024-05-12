@@ -47,3 +47,13 @@ button:hover{
     background-color:rgba(97, 31, 159, 0.75) ;
     transition: 500ms;
 }
+
+@media (max-width:500px){
+    .box{
+        width: 80%;
+    }
+
+    .innbox{
+        padding:2rem;
+    }
+}
