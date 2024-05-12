@@ -48,7 +48,7 @@ const quizdata = [
         correct:"a",
     },
     {
-        question:"Which of the following is not javascript data types?",
+        question:"Which of the following is javascript data types?",
         a:"Null type",
         b:"Undefined type",
         c:"Number type",
